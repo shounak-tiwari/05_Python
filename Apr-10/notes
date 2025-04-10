@@ -1,0 +1,49 @@
+concept 1 : keywords 
+
+Python keywords are unique words reserved with defined meanings and function 
+
+pythno contains thirty-five keywords 
+
+1. False 
+2. None
+3. break
+4. await
+5. else 
+6. if 
+7. import
+8. pass
+9. in
+10. is
+11. not 
+12. lambda 
+13. try
+14. except
+..............
+
+
+
+
+comments : line in a source code which is only provide information but not get execute 
+1. single line  #
+2. multiple line  """ """
+
+
+literals in python 
+
+python literals are fixed constant values assigned to variable or used directly in expressions 
+
+Literals are grouped under following categories: 
+
+1. string literals : ay set of char written in a string of quotes 
+2. collection literals : list tuple dict and set
+3. booleans literals : the two most commonly accepted vlaues true or false 
+4. special literals : the keywords none signifies the lack of values  
+5. numeric literals : integers , floating points and complex number (imagenary)
+
+
+
+
+
+
+
+
