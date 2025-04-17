@@ -1,0 +1,23 @@
+Introduction to python : 
+python is a high level , interpreted , general purpose programming language created by Guido van Rossum and first released in feb20,1991. 
+
+python 0.9.0 => feb 20,1991 
+
+it emohasized code readability with its notable use of significant white space and clear syntax 
+
+ Key feactures of python 
+ 1. easy to learn and read 
+ 2. interpreted languege
+ 3. cross platform 
+ 4. extensive library
+ 5. dynamic typing
+ 6. memory management 
+ 7. multi-paradgm support
+ 8. large ecosystem 
+ 		300,000 in pypi (packages)
+ 
+ Advantage : 
+ 1. Rapid development 
+ 2. Versatility 
+ 
+ 
